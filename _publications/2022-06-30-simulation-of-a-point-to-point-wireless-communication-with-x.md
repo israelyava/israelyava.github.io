@@ -1,6 +1,7 @@
 ---
 title: "Simulation of a point-to-point wireless communication with XBEE technology for monitoring environmental variables"
 collection: publications
+category: manuscripts
 permalink: "/publication/2022-simulation-of-a-point-to-point-wireless-communication-with-x"
 date: 2022-06-30
 venue: "ECORFAN Journal-Democratic Republic of Congo, pp. 19, 2022"
