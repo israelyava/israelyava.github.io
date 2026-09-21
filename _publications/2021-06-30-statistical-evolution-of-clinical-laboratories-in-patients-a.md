@@ -1,6 +1,7 @@
 ---
 title: "Statistical evolution of clinical laboratories in patients admitted to the CECCS with SARS-COV-2"
 collection: publications
+category: manuscripts
 permalink: "/publication/2021-statistical-evolution-of-clinical-laboratories-in-patients-a"
 date: 2021-06-30
 venue: "Journal of Quantitative and Statistical Analysis, pp. 1, 2021"
