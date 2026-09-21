@@ -1,6 +1,7 @@
 ---
 title: "Design y development of a graphical user interface in LabVIEW for acquisition and visualization of climatological data (temperature and relative humidity)"
 collection: publications
+category: manuscripts
 permalink: "/publication/2020-design-y-development-of-a-graphical-user-interface-in-labvie"
 date: 2020-08-30
 venue: "Journal of Technological Prototypes, pp. 18-29, 2020"
