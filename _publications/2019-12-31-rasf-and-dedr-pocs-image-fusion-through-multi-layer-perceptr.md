@@ -1,6 +1,7 @@
 ---
 title: "RASF and DEDR-POCS Image Fusion through Multi-layer Perceptron in SAR Imagery Systems"
 collection: publications
+category: manuscripts
 permalink: "/publication/2019-rasf-and-dedr-pocs-image-fusion-through-multi-layer-perceptr"
 date: 2019-12-31
 venue: "Journal of Computational Systems and ICTs, pp. 20-26, 2019"
