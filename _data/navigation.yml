@@ -21,7 +21,7 @@ main:
     url: "/thesis-advising/"
         
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
     
   - title: "CV"
     url: /cv/
