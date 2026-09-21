@@ -1,6 +1,7 @@
 ---
 title: "Analysis and automatic segmentation of images for lungs regions extraction in X-ray chest"
 collection: publications
+category: manuscripts
 permalink: "/publication/2020-analysis-and-automatic-segmentation-of-images-for-lungs-regi"
 date: 2020-12-31
 venue: "Journal of Quantitative and Statistical Analysis, pp. 18, 2020"
