@@ -1,6 +1,7 @@
 ---
 title: "Localization of structures under the forest canopy through three-dimensional imagery acquired with remote sensing"
 collection: publications
+category: manuscripts
 permalink: "/publication/2021-localization-of-structures-under-the-forest-canopy-through-t"
 date: 2021-06-30
 venue: "Revista de Ingenieria Innovativa, pp. 1-9, 2021"
