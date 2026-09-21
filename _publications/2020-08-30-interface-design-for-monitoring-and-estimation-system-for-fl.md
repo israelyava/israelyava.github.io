@@ -1,6 +1,7 @@
 ---
 title: "Interface design for monitoring and estimation system for flooding through an image analysis of remote sensing (SAVUI)"
 collection: publications
+category: manuscripts
 permalink: "/publication/2020-interface-design-for-monitoring-and-estimation-system-for-fl"
 date: 2020-08-30
 venue: "Journal of Technological Prototypes, pp. 30-38, 2020"
