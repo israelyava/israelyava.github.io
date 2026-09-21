@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Viral and bacterial pneumonia Detection in x-ray images using artificial neural
+networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://www.ecorfan.org/bolivia/journal/vol6num11/ECORFAN_Journal_Bolivia_V6_N11_2.pdf
+date: 2019-12-01
+venue: 'ECORFAN, CONIMI 2019'
+paperurl: 'https://www.ecorfan.org/bolivia/journal/vol6num11/ECORFAN_Journal_Bolivia_V6_N11_2.pdf'
+citation: 'GUERRERO-GASCA, Itzel, YAÑEZ-VARGAS, Israel, QUINTANILLA-DOMÍNGUEZ, Joel, LARAGONZÁLEZ, Luis and GASCA-ORTEGA, Arturo. Viral and bacterial pneumonia Detection in x-ray images using artificial neural networks. ECORFAN Journal-Bolivia. 2019. 6-11: 9-16..'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
