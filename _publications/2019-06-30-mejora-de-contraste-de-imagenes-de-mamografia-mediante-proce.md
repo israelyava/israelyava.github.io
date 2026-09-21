@@ -1,6 +1,7 @@
 ---
 title: "Mejora de contraste de imagenes de mamografía mediante procesamiento digital de imagen"
 collection: publications
+category: manuscripts
 permalink: "/publication/2019-mejora-de-contraste-de-imagenes-de-mamografia-mediante-proce"
 date: 2019-06-30
 venue: "Journal of Scientific and Technical Applications, pp. 19-28, 2019"
