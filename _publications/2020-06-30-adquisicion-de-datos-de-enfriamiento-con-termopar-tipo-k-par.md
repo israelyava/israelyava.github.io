@@ -1,6 +1,7 @@
 ---
 title: "Adquisición de datos de enfriamiento con termopar tipo k para probetas de acero inoxidable en la plataforma Arduino"
 collection: publications
+category: manuscripts
 permalink: "/publication/2020-adquisicion-de-datos-de-enfriamiento-con-termopar-tipo-k-par"
 date: 2020-06-30
 venue: "Revista de Aplicaciones de la Ingeniería, pp. 19, 2020"
