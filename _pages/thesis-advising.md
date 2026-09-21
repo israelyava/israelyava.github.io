@@ -3,13 +3,8 @@
 title: "Thesis Advising"
 permalink: /thesis-advising/
 author_profile: true
---------------------
 
-# Dirección y Asesoría de Trabajos Académicos
 
-A lo largo de mi trayectoria académica he participado en la **dirección, asesoría, co-asesoría, revisión y evaluación de trabajos de titulación** en los niveles de licenciatura, maestría y doctorado.
-
-Mis actividades de asesoría han comprendido temas relacionados con **telecomunicaciones, procesamiento digital de imágenes, inteligencia artificial, aprendizaje automático, percepción remota, procesamiento de señales, sistemas inteligentes y tecnologías de información**.
 
 ---
 
