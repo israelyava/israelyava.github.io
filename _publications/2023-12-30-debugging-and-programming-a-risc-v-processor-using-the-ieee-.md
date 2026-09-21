@@ -1,6 +1,7 @@
 ---
 title: "Debugging and programming a RISC-V processor, using the IEEE 1149.1 standard"
 collection: publications
+category: manuscripts
 permalink: "/publication/2023-debugging-and-programming-a-risc-v-processor-using-the-ieee-"
 date: 2023-12-30
 venue: "Revista de Computo Aplicado, pp. 1-9, 2023"
