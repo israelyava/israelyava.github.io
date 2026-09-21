@@ -1,6 +1,7 @@
 ---
 title: "Analysis of COVID-19 Mortality Predictions in CECCS Using Clinical and Laboratory Data with a Multi-layer Perceptron"
 collection: publications
+category: conferences
 permalink: "/publication/2027-analysis-of-covid-19-mortality-predictions-in-ceccs-using-cl"
 date: 2027-01-01
 venue: "Communications in Computer and Information Science, pp. 811-824, 2027"
