@@ -1,6 +1,7 @@
 ---
 title: "Comparative Between Artificial Neural Networks and Multiple Linear Regression for the Estimation of Mechanical Properties in Cast Aluminum"
 collection: publications
+category: manuscripts
 permalink: "/publication/2025-comparative-between-artificial-neural-networks-and-multiple-"
 date: 2025-11-01
 venue: "IEEE Latin America Transactions, vol. 23, num. 11, pp. 960-968, 2025"
