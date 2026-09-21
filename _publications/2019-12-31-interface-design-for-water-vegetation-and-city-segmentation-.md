@@ -1,6 +1,7 @@
 ---
 title: "Interface design for water, vegetation and city segmentation in multispectral images using SVM (TOLTECA)"
 collection: publications
+category: manuscripts
 permalink: "/publication/2019-interface-design-for-water-vegetation-and-city-segmentation-"
 date: 2019-12-31
 venue: "Journal of Technology and Innovation, pp. 8, 2019"
