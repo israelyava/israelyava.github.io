@@ -1,6 +1,7 @@
 ---
 title: "Implementation of a neural network of low computational cost for its application in arm prostheses"
 collection: publications
+category: manuscripts
 permalink: "/publication/2022-implementation-of-a-neural-network-of-low-computational-cost"
 date: 2022-11-16
 venue: "Revista de Ingeniería Tecnológica, pp. 27-34, 2022"
