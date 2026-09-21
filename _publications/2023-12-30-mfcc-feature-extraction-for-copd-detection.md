@@ -1,6 +1,7 @@
 ---
 title: "MFCC feature extraction for COPD detection"
 collection: publications
+category: manuscripts
 permalink: "/publication/2023-mfcc-feature-extraction-for-copd-detection"
 date: 2023-12-30
 venue: "Journal of Technology and Innovation, pp. 1, 2023"
