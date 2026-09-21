@@ -1,6 +1,7 @@
 ---
 title: "Interface development for depth level compute in water zones through bathymetry (TOLTECA)"
 collection: publications
+category: manuscripts
 permalink: "/publication/2019-interface-development-for-depth-level-compute-in-water-zones"
 date: 2019-12-31
 venue: "Journal of Technology and Innovation, pp. 15, 2019"
