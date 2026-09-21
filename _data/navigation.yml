@@ -20,8 +20,8 @@ main:
   - title: "Thesis Advising"
     url: "/thesis-advising/"
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Projects"
+    url: /Projects/
     
   - title: "CV"
     url: /cv/
