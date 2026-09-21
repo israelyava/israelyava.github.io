@@ -1,6 +1,7 @@
 ---
 title: "Radar/SAR Image Resolution Enhancement via Unifying Descriptive Experiment Design Regularization and Wavelet-Domain Processing"
 collection: publications
+category: manuscripts
 permalink: "/publication/2016-radar-sar-image-resolution-enhancement-via-unifying-descript"
 date: 2016-02-01
 venue: "IEEE Geoscience and Remote Sensing Letters, vol. 13, num. 2, pp. 152-156, 2016"
