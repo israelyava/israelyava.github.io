@@ -1,6 +1,7 @@
 ---
 title: "Analysis of multi-class classification performance metrics for remote sensing imagery imbalanced datasets"
 collection: publications
+category: manuscripts
 permalink: "/publication/2021-analysis-of-multi-class-classification-performance-metrics-f"
 date: 2021-06-30
 venue: "Journal of Quantitative and Statistical Analysis, pp. 11, 2021"
