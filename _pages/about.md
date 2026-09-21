@@ -42,6 +42,31 @@ My research interests include:
 * Intelligent Systems
 * Data Analysis and Computational Methods
 
+Research Collaborations
+
+My research and academic activities include collaborations with academic, scientific, technological, healthcare, and aerospace institutions. These collaborations provide opportunities for interdisciplinary research and the development of technological solutions to real-world problems.
+
+I have collaborated with:
+
+CINVESTAV — Unidad Guadalajara
+
+Universidad Autónoma del Carmen (UNACAR)
+
+Centro Estatal de Cuidados Críticos
+
+Centro Aeroespacial Mexicano
+
+Agencia Espacial Mexicana (AEM)
+
+These collaborations involve areas related to engineering, telecommunications, artificial intelligence, information technologies, healthcare technologies, and aerospace applications.
+
+
+
+
+
+
+
+
 ## Academic Activities
 
 My academic activities include **research, teaching, scientific publications, participation in academic conferences, and thesis supervision** at undergraduate and graduate levels.
