@@ -1,6 +1,7 @@
 ---
 title: "Statistical analysis and characterization of Landsat 8 satellite images of forest wildfires regions"
 collection: publications
+category: manuscripts
 permalink: "/publication/2021-statistical-analysis-and-characterization-of-landsat-8-satel"
 date: 2021-06-30
 venue: "ECORFAN Journal-Democratic Republic of Congo, pp. 19, 2021"
